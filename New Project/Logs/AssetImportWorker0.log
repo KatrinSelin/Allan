@@ -1,0 +1,475 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.928; Version 2004; 64bit' Language: 'en' Physical Memory: 16265 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Laptop/Downloads/YouthDigital1-main/New Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51257
+Successfully changed project path to: C:/Users/Laptop/Downloads/YouthDigital1-main/New Project
+C:/Users/Laptop/Downloads/YouthDigital1-main/New Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 50.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Laptop/Downloads/YouthDigital1-main/New Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K2100M (ID=0x11fc)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   23.21.13.9065
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56128
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002573 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.315 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003253 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.048 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1298 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.4 MB.
+System memory in use after: 90.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1786.
+Total: 2.536700 ms (FindLiveObjects: 0.238500 ms CreateObjectMapping: 0.136700 ms MarkObjects: 1.785100 ms  DeleteObjects: 0.375200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/My Game/My Prefabs/EnemyDroid Variant.prefab
+  artifactKey: Guid(b4ed2c963db0d4948a99a765d0af4e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Prefabs/EnemyDroid Variant.prefab using Guid(b4ed2c963db0d4948a99a765d0af4e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef6d916f0d9293ea1965a27f126b72cb') in 0.263835 seconds
+  Import took 0.269279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117705 seconds.
+  path: Assets/My Game/My Scripts/GameScript.cs
+  artifactKey: Guid(416d3cc090492f943bf69f179f02054f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scripts/GameScript.cs using Guid(416d3cc090492f943bf69f179f02054f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b33eac839bfb8cddd0a37a79790c920') in 0.009130 seconds
+  Import took 0.013404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045308 seconds.
+  path: Assets/My Game/My Prefabs/Projectile 1.prefab
+  artifactKey: Guid(f70bccf8a01055c48a197cf58767bfad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Prefabs/Projectile 1.prefab using Guid(f70bccf8a01055c48a197cf58767bfad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d700fc9877ff806540539c6b0ce88a6') in 0.034143 seconds
+  Import took 0.038299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.111844 seconds.
+  path: Assets/My Game/My Prefabs/EnemySpider 1.prefab
+  artifactKey: Guid(42d24ba5eb2213840a3b47e1a072458b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Prefabs/EnemySpider 1.prefab using Guid(42d24ba5eb2213840a3b47e1a072458b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eab6a7c729e9adff74fa69831e4e8a47') in 0.099252 seconds
+  Import took 0.104133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.074409 seconds.
+  path: Assets/My Game/My Prefabs/Powerup2.prefab
+  artifactKey: Guid(9d0e6fd3d42685a409a7fa25cfe282c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Prefabs/Powerup2.prefab using Guid(9d0e6fd3d42685a409a7fa25cfe282c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c52a8a89d6765c3a0e73a092c54bce39') in 0.028831 seconds
+  Import took 0.038226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 891.919392 seconds.
+  path: Assets/Game Library/Models/Swamp Level/Swamp_Structure_Temple.fbx
+  artifactKey: Guid(f1a547957e69045dc8ef456ecddb85fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Models/Swamp Level/Swamp_Structure_Temple.fbx using Guid(f1a547957e69045dc8ef456ecddb85fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '014751bd93d958ee8eb9c868f5cc34ea') in 0.130236 seconds
+  Import took 0.134453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Game Library/Prefabs/Swamp/Swamp_Structure_Temple.prefab
+  artifactKey: Guid(18f701fe3d29642aaa6e37494c18655c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Prefabs/Swamp/Swamp_Structure_Temple.prefab using Guid(18f701fe3d29642aaa6e37494c18655c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dcd8edb55692fe4e41ede91a8afd4a8') in 0.017546 seconds
+  Import took 0.021589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.522947 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Base_000__Untitled_001.mat
+  artifactKey: Guid(51a07b5fdbe87124bb203bf5d2a7c4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Base_000__Untitled_001.mat using Guid(51a07b5fdbe87124bb203bf5d2a7c4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca3e267231fd5c821b42bf1a63b44100') in 0.061787 seconds
+  Import took 0.065742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Base__Untitled_001.mat
+  artifactKey: Guid(92d111bd4fb654c93bd6c127e3527672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Base__Untitled_001.mat using Guid(92d111bd4fb654c93bd6c127e3527672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7ada45b1cd952ebf9d467fc73729bc4') in 0.022503 seconds
+  Import took 0.025709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Game Library/Audio/Music/Clash_of_the_Titans__8s_Stinger.ogg
+  artifactKey: Guid(2829872295d64b5459395e270bfa33f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Audio/Music/Clash_of_the_Titans__8s_Stinger.ogg using Guid(2829872295d64b5459395e270bfa33f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3533c929e5b3276d016a9625c9a5feda') in 0.048449 seconds
+  Import took 0.052175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Game Library/Audio/Music/Clash_of_the_Titans_Victory_15s.ogg
+  artifactKey: Guid(c85701bc6f3bd3f4f9bac0ef967d105d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Audio/Music/Clash_of_the_Titans_Victory_15s.ogg using Guid(c85701bc6f3bd3f4f9bac0ef967d105d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '602bf6c389af46e92d92d8890d21cf40') in 0.026079 seconds
+  Import took 0.029337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/M_Hero_Hat_Material__Untitled_001.mat
+  artifactKey: Guid(5802f48417c63be4984f64d72928c90d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/M_Hero_Hat_Material__Untitled_001.mat using Guid(5802f48417c63be4984f64d72928c90d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d0759bffc1b65587432b296836282e') in 0.030052 seconds
+  Import took 0.034169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Secondary_003__Untitled_001.mat
+  artifactKey: Guid(7b2f819886b004644be21fe5cdaaee0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Secondary_003__Untitled_001.mat using Guid(7b2f819886b004644be21fe5cdaaee0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e09c623cdbfd410c5ce8db60876e6f') in 0.024522 seconds
+  Import took 0.028900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Red__Untitled.mat
+  artifactKey: Guid(6d76a86a22a98411fa62aad9f6968a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Red__Untitled.mat using Guid(6d76a86a22a98411fa62aad9f6968a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '440b19b6b6ccc7892db50edc51ee459e') in 0.026033 seconds
+  Import took 0.030169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Main_003__Untitled_001.mat
+  artifactKey: Guid(10ec93e722f5f6e459914796921ab329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Main_003__Untitled_001.mat using Guid(10ec93e722f5f6e459914796921ab329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d69328f9ecdae22fc0d890eea16755f') in 0.022629 seconds
+  Import took 0.026135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/Hero_F_Main_Material_002__Untitled_001.mat
+  artifactKey: Guid(b250d0e4fbcfd62449cdabef4aa8f713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/Hero_F_Main_Material_002__Untitled_001.mat using Guid(b250d0e4fbcfd62449cdabef4aa8f713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f82ec874cd7ea9b5eb03175b446c962b') in 0.024013 seconds
+  Import took 0.027208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Game Library/Audio/Music/Clash_of_the_Titans_3s Stinger.ogg
+  artifactKey: Guid(38d749e9c21171142b8045eac69e12a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Audio/Music/Clash_of_the_Titans_3s Stinger.ogg using Guid(38d749e9c21171142b8045eac69e12a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3543f5945a666639cda1cdd661d12ecc') in 0.025297 seconds
+  Import took 0.028368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Game Library/Audio/Music/Clash_of_the_Titans__30s.ogg
+  artifactKey: Guid(2a48d6bac41130a4dad0f598ab228156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Audio/Music/Clash_of_the_Titans__30s.ogg using Guid(2a48d6bac41130a4dad0f598ab228156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec37af2291c22a1de356e1c0bf63e134') in 0.025566 seconds
+  Import took 0.028463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Game Library/Audio/Music/Clash_of_the_Titans__9s_Stinger.ogg
+  artifactKey: Guid(aaf08e33b6139a549ade99c2a68ffd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Audio/Music/Clash_of_the_Titans__9s_Stinger.ogg using Guid(aaf08e33b6139a549ade99c2a68ffd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f08f8da66797e225eece49fba6d6c04') in 0.023573 seconds
+  Import took 0.026627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Game Library/Audio/Music/Clash_of_the_Titans__5s_Stinger.ogg
+  artifactKey: Guid(155431fefdce88b49a6a1e9edb6d1a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Audio/Music/Clash_of_the_Titans__5s_Stinger.ogg using Guid(155431fefdce88b49a6a1e9edb6d1a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d31098e3325eca127bc94b4e1cd41e') in 0.023402 seconds
+  Import took 0.026932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Main__Untitled.mat
+  artifactKey: Guid(b83c4bfa800764d309d1c3c42d098d40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Main__Untitled.mat using Guid(b83c4bfa800764d309d1c3c42d098d40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4b5ad8ebec39ca14b47d0d9c7791169') in 0.020903 seconds
+  Import took 0.023878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Secondary_001__Untitled_001.mat
+  artifactKey: Guid(4125cada0fbc0430d81ea05be5b4b03a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Secondary_001__Untitled_001.mat using Guid(4125cada0fbc0430d81ea05be5b4b03a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a587abf7ef20a42be6993a232606264a') in 0.021357 seconds
+  Import took 0.024342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Trim__Untitled_001.mat
+  artifactKey: Guid(45291cf458b2b4229b3985697ec932fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Trim__Untitled_001.mat using Guid(45291cf458b2b4229b3985697ec932fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1979d092fef980a56d20d4e26a45e5b5') in 0.022499 seconds
+  Import took 0.025840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Trim_002__Untitled_001.mat
+  artifactKey: Guid(d6266924ec912b54d843ee2688ca7b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Trim_002__Untitled_001.mat using Guid(d6266924ec912b54d843ee2688ca7b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd645d523e5bc57733e695f8dc51ab834') in 0.023756 seconds
+  Import took 0.026691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Main_001__Untitled_001.mat
+  artifactKey: Guid(132e103af7e00480ca5e60530e269bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Main_001__Untitled_001.mat using Guid(132e103af7e00480ca5e60530e269bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67ad0e8106cb3f842b6a378108fb35bc') in 0.022622 seconds
+  Import took 0.025843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Game Library/Audio/Music/Clash_of_the_Titans_1s Stinger.ogg
+  artifactKey: Guid(32a2146e7c6872c479d4979f4b9ab3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Audio/Music/Clash_of_the_Titans_1s Stinger.ogg using Guid(32a2146e7c6872c479d4979f4b9ab3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc33f8b6aa10b9d647a8c035692f14f') in 0.022912 seconds
+  Import took 0.026114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.698983 seconds.
+  path: Assets/Game Library/Prefabs/Items/Misc/Cutscene.prefab
+  artifactKey: Guid(e7a08db9bc29747c48fb743d059a449f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Prefabs/Items/Misc/Cutscene.prefab using Guid(e7a08db9bc29747c48fb743d059a449f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c2ba3013c5daaf00ce866b7be2e2406') in 0.015946 seconds
+  Import took 0.020313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Game Library/Prefabs/Coding/SceneHandler.prefab
+  artifactKey: Guid(cf7ea0e69dd54614f97d360a817642a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Prefabs/Coding/SceneHandler.prefab using Guid(cf7ea0e69dd54614f97d360a817642a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be62574058ce02149a557b364afbb149') in 0.013149 seconds
+  Import took 0.016589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Game Library/Prefabs/Coding/Cutscene_Helper.prefab
+  artifactKey: Guid(82507a41499df470eadd1e98e4438ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Prefabs/Coding/Cutscene_Helper.prefab using Guid(82507a41499df470eadd1e98e4438ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0d6549ec30ab4505987b6dc82a93f05') in 0.011305 seconds
+  Import took 0.014700 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002970 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.897 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1263 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.8 MB.
+System memory in use after: 91.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1835.
+Total: 2.494800 ms (FindLiveObjects: 0.197600 ms CreateObjectMapping: 0.065700 ms MarkObjects: 1.831700 ms  DeleteObjects: 0.398800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 243.457661 seconds.
+  path: Assets/My Game/My Scenes/Title ScreenSettings.lighting
+  artifactKey: Guid(6bc479086881bd94cb87636a82a7058c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Title ScreenSettings.lighting using Guid(6bc479086881bd94cb87636a82a7058c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '6dfe72d052d24a56bba6a42d08679c08') in 0.026398 seconds
+  Import took 0.029283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032300 seconds.
+  path: Assets/My Game/My Scenes/Title Screen.unity
+  artifactKey: Guid(779f50456e263a1498f42131c9108003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Title Screen.unity using Guid(779f50456e263a1498f42131c9108003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1afdc2c50533898c9d4448adde52b2ad') in 0.009019 seconds
+  Import took 0.011688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015932 seconds.
+  path: Assets/My Game/My Scenes/Scene 1.unity
+  artifactKey: Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Scene 1.unity using Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3482dcdf738a4059817bbcf33c5c805') in 0.007091 seconds
+  Import took 0.010172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.790994 seconds.
+  path: Assets/My Game/My Materials/Environment/Particles/Smoke Material.mat
+  artifactKey: Guid(2f2670c66b202447bb93a04f2dd99d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Environment/Particles/Smoke Material.mat using Guid(2f2670c66b202447bb93a04f2dd99d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2a4e8528b490ac7379ebc67e8e207c') in 0.060831 seconds
+  Import took 0.063990 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003041 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.946 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1263 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.9 MB.
+System memory in use after: 91.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1839.
+Total: 2.469800 ms (FindLiveObjects: 0.262500 ms CreateObjectMapping: 0.075400 ms MarkObjects: 1.726500 ms  DeleteObjects: 0.404000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004822 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.221 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1263 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.0 MB.
+System memory in use after: 91.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1842.
+Total: 3.194000 ms (FindLiveObjects: 0.298000 ms CreateObjectMapping: 0.139500 ms MarkObjects: 2.291900 ms  DeleteObjects: 0.461500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 306.761128 seconds.
+  path: Assets/Launcher.cs
+  artifactKey: Guid(fe87c6997f9491f4d8c8ad7885f69635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Launcher.cs using Guid(fe87c6997f9491f4d8c8ad7885f69635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74a515b2a678877814da7f9476af2033') in 0.009969 seconds
+  Import took 0.012927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024643 seconds.
+  path: Assets/Launcher.cs
+  artifactKey: Guid(fe87c6997f9491f4d8c8ad7885f69635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Launcher.cs using Guid(fe87c6997f9491f4d8c8ad7885f69635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74a515b2a678877814da7f9476af2033') in 0.003154 seconds
+  Import took 0.006530 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004923 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.048 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1262 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.0 MB.
+System memory in use after: 91.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1845.
+Total: 2.881000 ms (FindLiveObjects: 0.232200 ms CreateObjectMapping: 0.113700 ms MarkObjects: 2.106200 ms  DeleteObjects: 0.427400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.368879 seconds.
+  path: Assets/My Game/My Scenes/Scene 1.unity
+  artifactKey: Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Scene 1.unity using Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11bb4d33e3d09ad7900f074f8984257') in 0.020714 seconds
+  Import took 0.023453 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.4 MB.
+System memory in use after: 67.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1845.
+Total: 3.301400 ms (FindLiveObjects: 0.176800 ms CreateObjectMapping: 0.049700 ms MarkObjects: 2.614000 ms  DeleteObjects: 0.459500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 299.931047 seconds.
+  path: Assets/My Game/My Scenes/Scene 1.unity
+  artifactKey: Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Scene 1.unity using Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb378b0088f5f0c9ff444624b77c1016') in 0.016032 seconds
+  Import took 0.019141 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -1,0 +1,228 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.867; Version 2004; 64bit' Language: 'en' Physical Memory: 16265 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Laptop/Downloads/YouthDigital1-main/New Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56573
+Successfully changed project path to: C:/Users/Laptop/Downloads/YouthDigital1-main/New Project
+C:/Users/Laptop/Downloads/YouthDigital1-main/New Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 63.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Laptop/Downloads/YouthDigital1-main/New Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K2100M (ID=0x11fc)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   23.21.13.9065
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56240
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003140 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 60.94 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.693 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004097 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.394 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1298 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.2 MB.
+System memory in use after: 90.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1786.
+Total: 3.113500 ms (FindLiveObjects: 0.205900 ms CreateObjectMapping: 0.095600 ms MarkObjects: 2.342100 ms  DeleteObjects: 0.468500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/My Game/My Prefabs/EnemyDroid Variant.prefab
+  artifactKey: Guid(b4ed2c963db0d4948a99a765d0af4e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Prefabs/EnemyDroid Variant.prefab using Guid(b4ed2c963db0d4948a99a765d0af4e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffb9234298dcfcca7e86f2fdb6764b52') in 0.540244 seconds
+  Import took 0.545742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005322 seconds.
+  path: Assets/My Game/My Scenes/Template Scene.unity
+  artifactKey: Guid(efe3c843bcf762647a003899f9699989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Template Scene.unity using Guid(efe3c843bcf762647a003899f9699989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86716c0d2a5dd768468af02ebe5c3ee5') in 0.009851 seconds
+  Import took 0.013181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003349 seconds.
+  path: Assets/My Game/My Scenes
+  artifactKey: Guid(5efa43f4cdb072041af866fb36b7112f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes using Guid(5efa43f4cdb072041af866fb36b7112f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed1f5a84ce2e28346972c12702afb46') in 0.009807 seconds
+  Import took 0.013074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004173 seconds.
+  path: Assets/My Game/My Prefabs/New Material.mat
+  artifactKey: Guid(b0c0a22b2a434fa448383a0de831e99f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Prefabs/New Material.mat using Guid(b0c0a22b2a434fa448383a0de831e99f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f4c6d7f7eac8a371f7eee2259fd9144') in 0.190258 seconds
+  Import took 0.193715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007059 seconds.
+  path: Assets/My Game/My Prefabs/Tree_Pine_Curve 1.prefab
+  artifactKey: Guid(7a0c2106b5992e4419d4a0d86517662c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Prefabs/Tree_Pine_Curve 1.prefab using Guid(7a0c2106b5992e4419d4a0d86517662c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a25e0bbc39f5a91a9c84a27688c09973') in 0.033603 seconds
+  Import took 0.038115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005255 seconds.
+  path: Assets/My Game/My Scripts/GameScript.cs
+  artifactKey: Guid(416d3cc090492f943bf69f179f02054f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scripts/GameScript.cs using Guid(416d3cc090492f943bf69f179f02054f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b9af480facfa8d18c7245a3276feceb') in 0.016770 seconds
+  Import took 0.020362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004172 seconds.
+  path: Assets/My Game/My Scripts/New Lighting Settings.lighting
+  artifactKey: Guid(39c446cb66c6daa4d8ca0b538b3bf0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scripts/New Lighting Settings.lighting using Guid(39c446cb66c6daa4d8ca0b538b3bf0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e578057378ec912f8b07ffb42a95c0e5') in 0.012292 seconds
+  Import took 0.016969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004899 seconds.
+  path: Assets/My Game/My Prefabs/Projectile 1.prefab
+  artifactKey: Guid(f70bccf8a01055c48a197cf58767bfad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Prefabs/Projectile 1.prefab using Guid(f70bccf8a01055c48a197cf58767bfad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2de7e3bbb8908fa3a1ce1db34238c7fb') in 0.016859 seconds
+  Import took 0.020470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005246 seconds.
+  path: Assets/My Game/My Scripts/PlayerScript.cs
+  artifactKey: Guid(72713e6c4cb934bbfab5e332c37c1666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scripts/PlayerScript.cs using Guid(72713e6c4cb934bbfab5e332c37c1666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044370b46b7e23fd4977aaef57683f47') in 0.012301 seconds
+  Import took 0.018209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006965 seconds.
+  path: Assets/My Game/My Prefabs
+  artifactKey: Guid(15bcf351e47564902bc7136855cd88a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Prefabs using Guid(15bcf351e47564902bc7136855cd88a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd783cca815c58835cc0731cee2dacc5b') in 0.018056 seconds
+  Import took 0.025422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010450 seconds.
+  path: Assets/My Game/My Prefabs/Example.prefab
+  artifactKey: Guid(63be310f8fa87424e8dfc9d31973799b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Prefabs/Example.prefab using Guid(63be310f8fa87424e8dfc9d31973799b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37495bf6fc1c3b3273845770d0549b1b') in 0.022746 seconds
+  Import took 0.031011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010673 seconds.
+  path: Assets/My Game/My Scenes/Title Screen.unity
+  artifactKey: Guid(779f50456e263a1498f42131c9108003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Title Screen.unity using Guid(779f50456e263a1498f42131c9108003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3755e4a1a85a9065ff0f4fb7de0b144') in 0.020788 seconds
+  Import took 0.028218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010653 seconds.
+  path: Assets/My Game/My Scripts/NPC_1.cs
+  artifactKey: Guid(3d76a58973e0d4d9593104628407e6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scripts/NPC_1.cs using Guid(3d76a58973e0d4d9593104628407e6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b209c1cf8d6105a8f46f8e0db90e825') in 0.020657 seconds
+  Import took 0.027959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008088 seconds.
+  path: Assets/My Game/My Scripts
+  artifactKey: Guid(a79226e1bb02aaa46968554d7aba1c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scripts using Guid(a79226e1bb02aaa46968554d7aba1c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e05d3d400a363d14b0c73b8b566d7353') in 0.021072 seconds
+  Import took 0.028623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011332 seconds.
+  path: Assets/My Game/My Prefabs/EnemySpider 1.prefab
+  artifactKey: Guid(42d24ba5eb2213840a3b47e1a072458b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Prefabs/EnemySpider 1.prefab using Guid(42d24ba5eb2213840a3b47e1a072458b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f31352a12015d38376a42510bb04bf96') in 0.110360 seconds
+  Import took 0.119256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010667 seconds.
+  path: Assets/My Game/My Scenes/Template SceneSettings.lighting
+  artifactKey: Guid(d50a3f0745a73014f979a3ed6b3279e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Template SceneSettings.lighting using Guid(d50a3f0745a73014f979a3ed6b3279e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'a7656e8cc94d73a32daf5010ff1bd46a') in 0.016074 seconds
+  Import took 0.022711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009290 seconds.
+  path: Assets/My Game/My Scenes/Scene 1.unity
+  artifactKey: Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Scene 1.unity using Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '775694868607019229517f617e240786') in 0.015443 seconds
+  Import took 0.021382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007605 seconds.
+  path: Assets/My Game/My Prefabs/Sphere.prefab
+  artifactKey: Guid(4ca1d87ff17e59f4395acccab8630d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Prefabs/Sphere.prefab using Guid(4ca1d87ff17e59f4395acccab8630d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6ca204b48686426457042cd1c6263ed') in 0.029833 seconds
+  Import took 0.035370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008913 seconds.
+  path: Assets/My Game/My Prefabs/Powerup2.prefab
+  artifactKey: Guid(9d0e6fd3d42685a409a7fa25cfe282c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Prefabs/Powerup2.prefab using Guid(9d0e6fd3d42685a409a7fa25cfe282c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcc0c08308c3d64a7cba8a4d46af979b') in 0.036614 seconds
+  Import took 0.044008 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
